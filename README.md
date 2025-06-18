@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="250" alt="SQL Animation"/>
+  <img src="https://media.giphy.com/media/JhZcAuGjuDmZq/giphy.gif" width="300" alt="Inside Out Animation"/>
 </p>
 
 <h1 align="center">¡Hola! Soy Daiana Beltrán</h1>
@@ -29,14 +29,9 @@
 ## 🛠 Herramientas / Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-SQL-informational?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Power%20BI-yellow?style=for-the-badge&logo=powerbi&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="250" alt="SQL Animation"/>
-  <img src="https://media.giphy.com/media/trippy-abstract-pi-slices-PMV7yRpwGO5y9p3DBx/giphy.gif" width="250" alt="Python Abstract"/>
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="200" alt="SQL Animation"/>
+  <img src="https://media.giphy.com/media/trippy-abstract-pi-slices-PMV7yRpwGO5y9p3DBx/giphy.gif" width="200" alt="Python Abstract"/>
+  <img src="https://img.icons8.com/color/480/power-bi.png" width="100" alt="Power BI Logo"/>
 </p>
 
 ---
@@ -55,7 +50,7 @@
 
 ## 📫 Contacto / Contact
 
-📧 **Email:** [daianabeltran@gmail.com](mailto:daianabeltran@gmail.com)  
-🌐 **LinkedIn:** [linkedin.com/in/daiana-beltran](https://www.linkedin.com/in/daiana-beltran)  
-📍 **Ubicación / Location:** Basada en Argentina (UTC-3)
+- 📧 **Email:** [daianabeltran@gmail.com](mailto:daianabeltran@gmail.com)  
+- 🌐 **LinkedIn:** [linkedin.com/in/daiana-beltran](https://www.linkedin.com/in/daiana-beltran)  
+- 📍 **Ubicación / Location:** Basada en Argentina (UTC-3)
 
