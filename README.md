@@ -35,9 +35,8 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/vISmwpBJUNYzukTnVx/giphy.gif" width="200" alt="Confetti animation"/>
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300" alt="Coding animation"/>
-  <img src="https://media.giphy.com/media/trippy-abstract-pi-slices-PMV7yRpwGO5y9p3DBx/giphy.gif" width="200" alt="Python Abstract"/>
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="250" alt="SQL Animation"/>
+  <img src="https://media.giphy.com/media/trippy-abstract-pi-slices-PMV7yRpwGO5y9p3DBx/giphy.gif" width="250" alt="Python Abstract"/>
 </p>
 
 ---
@@ -59,3 +58,4 @@
 📧 **Email:** [daianabeltran@gmail.com](mailto:daianabeltran@gmail.com)  
 🌐 **LinkedIn:** [linkedin.com/in/daiana-beltran](https://www.linkedin.com/in/daiana-beltran)  
 📍 **Ubicación / Location:** Basada en Argentina (UTC-3)
+
