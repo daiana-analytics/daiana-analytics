@@ -1,13 +1,13 @@
 <img align="right" src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="200"/>
 
-# 👋 ¡Hola! Soy Daiana Beltrán  
+# <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width="30px"> ¡Hola! Soy Daiana Beltrán  
 📊 **Analista de Datos en formación** | SQL · Power BI · Python  
 🚀 Transformo datos en decisiones.  
 🌎 Abierta a oportunidades remotas en LATAM y EE. UU.
 
 ---
 
-# 👋 Hello! I'm Daiana Beltrán  
+# <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width="30px"> Hello! I'm Daiana Beltrán  
 📊 **Aspiring Data Analyst** | SQL · Power BI · Python  
 🚀 I transform data into decisions.  
 🌎 Open to remote roles in LATAM and the U.S.
@@ -47,10 +47,13 @@
 
 ---
 
-📫 **Contacto / Contact**: [daianabeltran@gmail.com](mailto:daianabeltran@gmail.com)  
-🌐 **LinkedIn**: [linkedin.com/in/daiana-beltran](https://www.linkedin.com/in/daiana-beltran)  
+## 📬 Contacto / Contact
+
+📫 [daianabeltran@gmail.com](mailto:daianabeltran@gmail.com)  
+🌐 [linkedin.com/in/daiana-beltran](https://www.linkedin.com/in/daiana-beltran)  
 
 📍 **Ubicación / Location**  
 🌍 Basada en Argentina (UTC-3) / Based in Argentina (UTC-3)  
 💼 Abierta a oportunidades remotas en LATAM y EE. UU. / Open to remote opportunities in LATAM and the U.S.
+
 
