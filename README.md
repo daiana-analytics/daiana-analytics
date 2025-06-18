@@ -1,16 +1,15 @@
-<img align="right" src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="200"/>
+<p align="center">
+  <img src="https://media.giphy.com/media/WWYSRkZZhDxKeq0aHe/giphy.gif" width="120" alt="Waving hand GIF"/>
+</p>
 
-# <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width="30px"> ¡Hola! Soy Daiana Beltrán  
-📊 **Analista de Datos en formación** | SQL · Power BI · Python  
-🚀 Transformo datos en decisiones.  
-🌎 Abierta a oportunidades remotas en LATAM y EE. UU.
+<h1 align="center">¡Hola! Soy Daiana Beltrán</h1>
+<h2 align="center">Hello! I'm Daiana Beltrán</h2>
 
----
-
-# <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width="30px"> Hello! I'm Daiana Beltrán  
-📊 **Aspiring Data Analyst** | SQL · Power BI · Python  
-🚀 I transform data into decisions.  
-🌎 Open to remote roles in LATAM and the U.S.
+<p align="center">
+  📊 <strong>Analista de Datos en formación</strong> | SQL · Power BI · Python <br>
+  🚀 Transformo datos en decisiones. <br>
+  🌍 Abierta a oportunidades remotas en LATAM y EE. UU. / Open to remote roles in LATAM and the U.S.
+</p>
 
 ---
 
@@ -29,9 +28,11 @@
 
 ## 🛠 Herramientas / Tools
 
-![SQL](https://img.shields.io/badge/-SQL-informational?style=flat&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-yellow?style=flat&logo=powerbi&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/-SQL-informational?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Power%20BI-yellow?style=for-the-badge&logo=powerbi&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
 ---
 
@@ -47,13 +48,8 @@
 
 ---
 
-## 📬 Contacto / Contact
+## 📫 Contacto / Contact
 
-📫 [daianabeltran@gmail.com](mailto:daianabeltran@gmail.com)  
-🌐 [linkedin.com/in/daiana-beltran](https://www.linkedin.com/in/daiana-beltran)  
-
-📍 **Ubicación / Location**  
-🌍 Basada en Argentina (UTC-3) / Based in Argentina (UTC-3)  
-💼 Abierta a oportunidades remotas en LATAM y EE. UU. / Open to remote opportunities in LATAM and the U.S.
-
-
+📧 **Email:** [daianabeltran@gmail.com](mailto:daianabeltran@gmail.com)  
+🌐 **LinkedIn:** [linkedin.com/in/daiana-beltran](https://www.linkedin.com/in/daiana-beltran)  
+📍 **Ubicación / Location:** Basada en Argentina (UTC-3)  
