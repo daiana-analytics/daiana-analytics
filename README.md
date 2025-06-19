@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/WWYSRkZZhDxKeq0aHe/giphy.gif" width="120" alt="Waving hand GIF"/>
+  <img src="https://media.giphy.com/media/JkVnfE54QdOMQBxmHg/giphy.gif" width="300" alt="DataCamp Animation"/>
 </p>
 
 <h1 align="center">¡Hola! Soy Daiana Beltrán</h1>
