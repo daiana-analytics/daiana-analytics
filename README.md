@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/JkVnfE54QdOMQBxmHg/giphy.gif" width="300" alt="DataCamp Animation"/>
+  <img src="https://github.com/daiana-analytics/daiana-analytics/raw/main/banner-linkedin.gif" width="100%" alt="Daiana Beltrán - Banner de Bienvenida"/>
 </p>
+
 
 <h1 align="center">¡Hola! Soy Daiana Beltrán</h1>
 <h2 align="center">Hello! I'm Daiana Beltrán</h2>
