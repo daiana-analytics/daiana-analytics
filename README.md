@@ -43,9 +43,18 @@
 ---
 
 ## Skills
-**Core:** SQL (MySQL & SQL Server), Power BI (DAX, Power Query), Excel  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-SQL-informational?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
 **Finance:** Financial KPIs, profitability, cost optimization, budget tracking  
 **Plus:** Data cleaning & transformation, KPI views, data storytelling
+
 
 ---
 
@@ -57,6 +66,8 @@ Data Analytics & Visualization; Intro to Databases & SQL (2024)
 ---
 
 ## Links
-Portfolio (Notion): REPLACE_PORTFOLIO_URL · Resume (PDF): REPLACE_RESUME_URL  
-LinkedIn: https://www.linkedin.com/in/daiana-beltran · Email: daianabeltran@gmail.com
+📂 **Portfolio (Notion):** [Daiana Beltrán Portfolio](https://www.notion.so/Daiana-Beltr-n-249e4cf23eab8023a5bcdc9475cac25d?source=copy_link)  
+📄 **Resume (Google Docs):** [View Resume](https://docs.google.com/document/d/1e_NKsKQgyqh5sVnSx79eFWA7HHKwgQQ9-2BKQM1VISA/edit?usp=drive_link)  
+🔗 **LinkedIn:** [linkedin.com/in/daiana-beltran](https://www.linkedin.com/in/daiana-beltran)  
+📧 **Email:** [daianabeltran@gmail.com](mailto:daianabeltran@gmail.com)
 
