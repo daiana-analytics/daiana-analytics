@@ -3,55 +3,48 @@
 </p>
 
 
-<h1 align="center">¡Hola! Soy Daiana Beltrán</h1>
-<h2 align="center">Hello! I'm Daiana Beltrán</h2>
+<h1 align="center">Daiana Beltrán</h1>
+<p align="center">
+  <strong>Data Analyst (SQL-focused)</strong> · Finance & Business Analytics<br/>
+  SQL · Power BI · Excel · (Python basics)
+</p>
 
 <p align="center">
-  📊 <strong>Analista de Datos en formación</strong> | SQL · Power BI · Python <br>
-  🚀 Transformo datos en decisiones. <br>
-  🌍 Abierta a oportunidades remotas en LATAM y EE. UU. / Open to remote roles in LATAM and the U.S.
+  Turning financial data into actionable insights for revenue growth and cost optimization.<br/>
+  Open to remote roles in LATAM and the U.S.
 </p>
 
 ---
 
-## 🔍 Proyectos Destacados / Highlighted Projects
+## Featured Projects
+| Project | Summary | Tech |
+|---|---|---|
+| **E-commerce Finance Dashboard** | End-to-end SQL + Power BI dashboard for revenue, margin, cost & customer trends. | SQL · Power BI · DAX · Power Query |
+| **Profitability Analysis** | KPI design & product/category margin insights for decisions. | SQL · Power BI |
+| **Cost Optimization Model** | Cost model & visuals to identify savings opportunities. | Power BI · Excel |
 
-- 📦 [xxx](https://github.com/daiana-analytics/xxx)  
-  *Optimización de inventario y ventas en e-commerce* / *E-commerce inventory and sales optimization*
-  
-- 🧾 [xxx](https://github.com/daiana-analytics/xxx)  
-  *Análisis de clientes y productos más vendidos* / *Customer & top-selling product analysis*
-  
-- 💻 [xxx](https://github.com/daiana-analytics/xxx)  
-  *Tienda online con modelo de costos y Power BI* / *Online store with cost modeling and Power BI*
-
----
-
-## 🛠 Herramientas / Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-SQL-informational?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Power%20BI-yellow?style=for-the-badge&logo=powerbi&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white" />
-</p>
+Repos:  
+`ecommerce-finance-dashboard-sql-powerbi` → REPLACE_LINK_1  
+`profitability-analysis-sql-powerbi` → REPLACE_LINK_2  
+`cost-optimization-model-powerbi` → REPLACE_LINK_3
 
 ---
 
-## 🎯 Objetivo Profesional / Career Objective
-
-📌 *Estoy en formación activa en análisis de datos, con conocimientos iniciales en SQL, Power BI y nociones básicas de Python. Ya cuento con un certificado de finalización de mi primer bootcamp, y continúo reforzando contenidos clave como SQL Server, Azure, ETL y Python.*
-
-🔍 *Mi objetivo es integrarme a un equipo donde pueda seguir aprendiendo, aportar con lo que ya sé y crecer como profesional. Estoy comprometida con el aprendizaje constante y la entrega responsable.*
-
-📌 *I’m currently in active training in data analytics, with foundational knowledge in SQL, Power BI, and basic Python. I’ve completed my first bootcamp and I’m progressing through key topics such as SQL Server, Azure, ETL, and Python.*
-
-🔍 *My goal is to join a team where I can continue learning, contribute with what I already know, and grow professionally. I’m committed to continuous learning and responsible delivery.*
+## Skills
+**Core:** SQL (MySQL & SQL Server), Power BI (DAX, Power Query), Excel  
+**Finance:** Financial KPIs, profitability, cost optimization, budget tracking  
+**Plus:** Data cleaning & transformation, KPI views, data storytelling
 
 ---
 
-## 📫 Contacto / Contact
+## Certifications & Training
+Data Analytics Bootcamp — Unicorn Academy (2025) · Advanced Power BI (PL-300T00-A) — Educación IT (2025) ·  
+SQL Server Programming (2025) · Python for Data Analysis (2025) ·  
+Data Analytics & Visualization; Intro to Databases & SQL (2024)
 
-📧 **Email:** [daianabeltran@gmail.com](mailto:daianabeltran@gmail.com)  
-🌐 **LinkedIn:** [linkedin.com/in/daiana-beltran](https://www.linkedin.com/in/daiana-beltran)  
-📍 **Ubicación / Location:** Basada en Argentina (UTC-3)  
+---
+
+## Links
+Portfolio (Notion): REPLACE_PORTFOLIO_URL · Resume (PDF): REPLACE_RESUME_URL  
+LinkedIn: https://www.linkedin.com/in/daiana-beltran · Email: daianabeltran@gmail.com
 
