@@ -19,14 +19,26 @@
 ## Featured Projects
 | Project | Summary | Tech |
 |---|---|---|
-| **E-commerce Finance Dashboard** | End-to-end SQL + Power BI dashboard for revenue, margin, cost & customer trends. | SQL · Power BI · DAX · Power Query |
-| **Profitability Analysis** | KPI design & product/category margin insights for decisions. | SQL · Power BI |
-| **Cost Optimization Model** | Cost model & visuals to identify savings opportunities. | Power BI · Excel |
+| **[E-commerce Finance Dashboard](https://github.com/daiana-analytics/ecommerce-finance-dashboard-sql-powerbi)** | End-to-end SQL + Power BI dashboard for revenue, margin, cost & customer trends. | SQL · Power BI · DAX |
+| **[Profitability Analysis](https://github.com/daiana-analytics/profitability-analysis-sql-powerbi)** | KPI design & product/category margin insights for decisions. | SQL · Power BI |
+| **[Cost Optimization Model](https://github.com/daiana-analytics/cost-optimization-model-powerbi)** | Cost model & visuals to identify savings opportunities. | Power BI · Excel |
 
-Repos:  
-`ecommerce-finance-dashboard-sql-powerbi` → REPLACE_LINK_1  
-`profitability-analysis-sql-powerbi` → REPLACE_LINK_2  
-`cost-optimization-model-powerbi` → REPLACE_LINK_3
+
+
+## Project Repositories
+
+- **E-commerce Finance Dashboard (SQL + Power BI)**  
+  https://github.com/daiana-analytics/ecommerce-finance-dashboard-sql-powerbi  
+  *End-to-end dashboard for revenue, margin, cost & customer trends.*
+
+- **Profitability Analysis (SQL + Power BI)**  
+  https://github.com/daiana-analytics/profitability-analysis-sql-powerbi  
+  *KPI design & product/category margin insights for decisions.*
+
+- **Cost Optimization Model (Power BI)**  
+  https://github.com/daiana-analytics/cost-optimization-model-powerbi  
+  *Cost model & visuals to identify savings opportunities.*
+
 
 ---
 
