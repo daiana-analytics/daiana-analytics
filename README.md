@@ -9,10 +9,15 @@
 </h2>
 
 <p align="center">
-  Turning financial data into actionable insights for revenue growth and cost optimization.<br/>
+  Helping businesses grow through data-driven financial insights.<br/>
   Open to remote roles in LATAM and the U.S.
 </p>
 
+---
+
+<p align="center">
+  💹 <strong>Driving smarter financial decisions</strong> — Explore my projects and connect to transform data into profitability.
+</p>
 
 ## Skills
 
@@ -22,10 +27,6 @@
   <img src="https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img src="https://img.shields.io/badge/-Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" />
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
-<p align="center">
-  💹 <strong>Driving smarter financial decisions</strong> — Explore my projects and connect to transform data into profitability.
 </p>
 
 ---
@@ -42,12 +43,14 @@
 ---
 
 ## Featured Projects
+
 | Project | Summary | Tech |
 |---|---|---|
-| **[E-commerce Finance Dashboard](https://github.com/daiana-analytics/ecommerce-finance-dashboard-sql-powerbi)** | End-to-end SQL + Power BI dashboard for revenue, margin, cost & customer trends. | SQL · Power BI · DAX |
-| **[Profitability Analysis](https://github.com/daiana-analytics/profitability-analysis-sql-powerbi)** | KPI design & product/category margin insights for decisions. | SQL · Power BI |
-| **[Cost Optimization Model](https://github.com/daiana-analytics/cost-optimization-model-powerbi)** | Cost model & visuals to identify savings opportunities. | Power BI · Excel |
+| **[E-commerce Finance Dashboard](https://github.com/daiana-analytics/ecommerce-finance-dashboard-sql-powerbi)** | End-to-end SQL + Power BI dashboard for revenue, margin, cost & customer trends. | ![SQL](https://img.shields.io/badge/-SQL-informational?style=flat&logo=mysql&logoColor=white) ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black) ![DAX](https://img.shields.io/badge/-DAX-blue?style=flat) |
+| **[Profitability Analysis](https://github.com/daiana-analytics/profitability-analysis-sql-powerbi)** | KPI design & product/category margin insights for decisions. | ![SQL](https://img.shields.io/badge/-SQL-informational?style=flat&logo=mysql&logoColor=white) ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black) |
+| **[Cost Optimization Model](https://github.com/daiana-analytics/cost-optimization-model-powerbi)** | Cost model & visuals to identify savings opportunities. | ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) |
 
+---
 
 ## Project Repositories
 
@@ -66,6 +69,10 @@
 ---
 
 ## Certifications & Training
-Data Analytics Bootcamp — Unicorn Academy (2025) · Advanced Power BI (PL-300T00-A) — Educación IT (2025) ·  
-SQL Server Programming (2025) · Python for Data Analysis (2025) ·  
-Data Analytics & Visualization; Intro to Databases & SQL (2024)
+
+- Data Analytics Bootcamp — Unicorn Academy (2025)  
+- Advanced Power BI (PL-300T00-A) — Educación IT (2025)  
+- SQL Server Programming (2025)  
+- Python for Data Analysis (2025)  
+- Data Analytics & Visualization; Intro to Databases & SQL (2024)  
+
