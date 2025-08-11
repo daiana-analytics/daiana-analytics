@@ -24,31 +24,14 @@
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-<p align="center">
-  💰 <strong>Finance:</strong> Financial KPIs, profitability, cost optimization, budget tracking  
-  📊 <strong>Plus:</strong> Data cleaning & transformation, KPI views, data storytelling
-</p>
-
-<p align="center">
-  Turning financial data into actionable insights for revenue growth and cost optimization.<br/>
-  Open to remote roles in LATAM and the U.S.
-</p>
 
 ## Links
-<p align="center">
-  <a href="https://www.notion.so/Daiana-Beltr-n-249e4cf23eab8023a5bcdc9475cac25d?source=copy_link">
-    <img src="https://img.shields.io/badge/Portfolio-Notion-orange?style=for-the-badge&logo=notion&logoColor=white" alt="Portfolio Notion"/>
-  </a>
-  <a href="https://docs.google.com/document/d/1e_NKsKQgyqh5sVnSx79eFWA7HHKwgQQ9-2BKQM1VISA/edit?usp=drive_link">
-    <img src="https://img.shields.io/badge/Resume-Google%20Docs-blue?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume Google Docs"/>
-  </a>
-  <a href="https://www.linkedin.com/in/daiana-beltran">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:daianabeltran@gmail.com">
-    <img src="https://img.shields.io/badge/Email-daianabeltran%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+
+[![Portfolio (Notion)](https://img.shields.io/badge/Portfolio%20(Notion)-F2C811?style=for-the-badge&logo=notion&logoColor=black)](https://www.notion.so/Daiana-Beltr-n-249e4cf23eab8023a5bcdc9475cac25d?source=copy_link)  
+[![Resume (Google Docs)](https://img.shields.io/badge/Resume%20(Google%20Docs)-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)](https://docs.google.com/document/d/1e_NKsKQgyqh5sVnSx79eFWA7HHKwgQQ9-2BKQM1VISA/edit?usp=drive_link)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daiana-beltran)  
+[![Email](https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daianabeltran@gmail.com)
+
 
 ---
 
