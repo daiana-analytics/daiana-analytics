@@ -24,14 +24,20 @@
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
+<p align="center">
+  💹 <strong>Driving smarter financial decisions</strong> — Explore my projects and connect to transform data into profitability.
+</p>
+
+---
 
 ## Links
 
-[![Portfolio (Notion)](https://img.shields.io/badge/Portfolio%20(Notion)-F2C811?style=for-the-badge&logo=notion&logoColor=black)](https://www.notion.so/Daiana-Beltr-n-249e4cf23eab8023a5bcdc9475cac25d?source=copy_link)  
-[![Resume (Google Docs)](https://img.shields.io/badge/Resume%20(Google%20Docs)-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)](https://docs.google.com/document/d/1e_NKsKQgyqh5sVnSx79eFWA7HHKwgQQ9-2BKQM1VISA/edit?usp=drive_link)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daiana-beltran)  
-[![Email](https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daianabeltran@gmail.com)
-
+<p align="center">
+  <a href="https://www.notion.so/Daiana-Beltr-n-249e4cf23eab8023a5bcdc9475cac25d?source=copy_link"><img src="https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=notion&logoColor=black" /></a>
+  <a href="https://docs.google.com/document/d/1e_NKsKQgyqh5sVnSx79eFWA7HHKwgQQ9-2BKQM1VISA/edit?usp=drive_link"><img src="https://img.shields.io/badge/Resume-FF8C00?style=for-the-badge&logo=googledocs&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/daiana-beltran"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:daianabeltran@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
