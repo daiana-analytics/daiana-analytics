@@ -46,6 +46,7 @@
 
 | Project | Summary | Tech |
 |---|---|---|
+| [📊 Global Superstore — Financial Analytics & BI Project](https://github.com/daiana-analytics/global_superstore_finance) | End-to-end SQL + Power BI project simulating enterprise BI: ETL → Star Schema → KPIs → Dashboards → BI Security. | ![SQL](https://img.shields.io/badge/SQL-blue) ![Power BI](https://img.shields.io/badge/Power%20BI-yellow) |
 | ![thumb](https://i.imgur.com/imagenDashboard1.png) **[E-commerce Finance Dashboard](https://github.com/daiana-analytics/ecommerce-finance-dashboard-sql-powerbi)** | End-to-end SQL + Power BI dashboard for revenue, margin, cost & customer trends. | ![SQL](https://img.shields.io/badge/-SQL-blue?style=flat) ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat) ![DAX](https://img.shields.io/badge/-DAX-yellow?style=flat) |
 | ![thumb](https://i.imgur.com/imagenDashboard2.png) **[Profitability Analysis](https://github.com/daiana-analytics/profitability-analysis-sql-powerbi)** | KPI design & product/category margin insights for decision-making. | ![SQL](https://img.shields.io/badge/-SQL-blue?style=flat) ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat) |
 | ![thumb](https://i.imgur.com/imagenDashboard3.png) **[Cost Optimization Model](https://github.com/daiana-analytics/cost-optimization-model-powerbi)** | Cost model & visuals to identify savings opportunities. | ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat) ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat) |
