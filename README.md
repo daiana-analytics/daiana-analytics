@@ -41,7 +41,7 @@
   <!-- Git Bash -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git Bash" width="48" height="48"/>
   <!-- GitHub -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="48" height="48"/>
+  <img src="https://img.icons8.com/ios-glyphs/48/ffffff/github.png" alt="GitHub" width="48" height="48"/>
   <!-- Notion -->
   <img src="https://img.icons8.com/ios-filled/50/ffffff/notion.png" alt="Notion" width="48" height="48"/>
 </p>
