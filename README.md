@@ -25,29 +25,31 @@
 
 ## 💼 Skills & Tools
 
-**🔎 Data Analysis**
+### 🛠️ Skills & Tools
+
 <p align="center">
+  <!-- SQL -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="48" height="48"/>
+  <!-- Power BI -->
   <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" width="48" height="48"/>
+  <!-- Excel -->
   <img src="https://img.icons8.com/fluency/48/microsoft-excel-2019.png" alt="Excel" width="48" height="48"/>
+  <!-- Google Sheets -->
   <img src="https://img.icons8.com/color/48/google-sheets.png" alt="Google Sheets" width="48" height="48"/>
+  <!-- Python -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="48" height="48"/>
+  <!-- Git Bash -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git Bash" width="48" height="48"/>
+  <!-- GitHub -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="48" height="48"/>
+  <!-- Notion -->
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/notion.png" alt="Notion" width="48" height="48"/>
 </p>
 
-**💻 Programming**
-<p align="right">
-  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GIT%20BASH-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<p align="center">
+  💡 <i>Transforming financial data into profitability — Explore my projects to see SQL & BI applied to real business decisions.</i>
 </p>
 
-**🤝 Collaboration & Documentation**
-<p align="right">
-  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NOTION-000000?style=for-the-badge&logo=notion&logoColor=white"/>
-</p>
-
----
-
-💡 *Transforming financial data into profitability — Explore my projects to see SQL & BI applied to real business decisions.*
 
 ---
 
