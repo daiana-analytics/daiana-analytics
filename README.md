@@ -25,8 +25,6 @@
 
 ## 💼 Skills & Tools
 
-### 🛠️ Skills & Tools
-
 <p align="center">
   <!-- SQL -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="48" height="48"/>
