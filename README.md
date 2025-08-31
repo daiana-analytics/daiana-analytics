@@ -14,25 +14,26 @@
 
 <!-- LET'S CONNECT -->
 <p align="center">
-  <a href="https://www.notion.so/Daiana-Beltr-n-249e4cf23eab8023a5bcdc9475cac25d">
-    <img src="https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=notion&logoColor=black" />
+  <a href="https://www.notion.so/Daiana-Beltr-n-249e4cf23eab8023a5bcdc9475cac25d" title="Abrir Portfolio (Notion)">
+    <img src="https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=notion&logoColor=black" alt="Portfolio (Notion)" />
   </a>
 
-  <!-- CV ES (verde brillante) -->
-  <a href="https://docs.google.com/document/d/130RopW1m99d8Gq91jpqG7du9axSayNakaK6JqLqgpXU/view?usp=sharing">
-    <img src="https://img.shields.io/badge/CV%20ES-4CAF50?style=for-the-badge&logo=googledocs&logoColor=white" alt="CV en español" />
+  <!-- CV en español (verde brillante) -->
+  <a href="https://docs.google.com/document/d/130RopW1m99d8Gq91jpqG7du9axSayNakaK6JqLqgpXU/view?usp=sharing" title="Abrir CV en español (Google Docs)">
+    <img src="https://img.shields.io/badge/CV%20ES-4CAF50?style=for-the-badge&logo=googledocs&logoColor=white" alt="CV en español (Google Docs)" />
   </a>
 
-  <!-- Resume EN (naranja) -->
-  <a href="https://docs.google.com/document/d/1e_NKsKQgyqh5sVnSx79eFWA7HHKwgQQ9-2BKQM1VISA/view?usp=sharing">
-    <img src="https://img.shields.io/badge/Resume%20EN-FF8C00?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume in English" />
+  <!-- Resume en inglés (naranja) -->
+  <a href="https://docs.google.com/document/d/1e_NKsKQgyqh5sVnSx79eFWA7HHKwgQQ9-2BKQM1VISA/view?usp=sharing" title="Open Resume in English (Google Docs)">
+    <img src="https://img.shields.io/badge/Resume%20EN-FF8C00?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume in English (Google Docs)" />
   </a>
 
-  <a href="https://www.linkedin.com/in/daiana-beltran">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/daiana-beltran" title="Ir a LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:daianabeltran@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+
+  <a href="mailto:daianabeltran@gmail.com" title="Enviar email">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
