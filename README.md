@@ -18,12 +18,12 @@
     <img src="https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=notion&logoColor=black" />
   </a>
 
-  <!-- CV en español (Google Docs, vista) -->
+  <!-- CV ES (verde brillante) -->
   <a href="https://docs.google.com/document/d/130RopW1m99d8Gq91jpqG7du9axSayNakaK6JqLqgpXU/view?usp=sharing">
-    <img src="https://img.shields.io/badge/CV-ES-2E7D32?style=for-the-badge&logo=googledocs&logoColor=white" alt="CV en español" />
+    <img src="https://img.shields.io/badge/CV%20ES-4CAF50?style=for-the-badge&logo=googledocs&logoColor=white" alt="CV en español" />
   </a>
 
-  <!-- Resume en inglés (Google Docs, vista) -->
+  <!-- Resume EN (naranja) -->
   <a href="https://docs.google.com/document/d/1e_NKsKQgyqh5sVnSx79eFWA7HHKwgQQ9-2BKQM1VISA/view?usp=sharing">
     <img src="https://img.shields.io/badge/Resume%20EN-FF8C00?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume in English" />
   </a>
