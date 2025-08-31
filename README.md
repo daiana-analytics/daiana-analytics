@@ -18,14 +18,14 @@
     <img src="https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=notion&logoColor=black" alt="Portfolio (Notion)" />
   </a>
 
-  <!-- CV en español (verde brillante) -->
+  <!-- CV ES (verde neón) -->
   <a href="https://docs.google.com/document/d/130RopW1m99d8Gq91jpqG7du9axSayNakaK6JqLqgpXU/view?usp=sharing" title="Abrir CV en español (Google Docs)">
-    <img src="https://img.shields.io/badge/CV%20ES-4CAF50?style=for-the-badge&logo=googledocs&logoColor=white" alt="CV en español (Google Docs)" />
+    <img src="https://img.shields.io/badge/CV%20ES-00C853?style=for-the-badge&logo=googledocs&logoColor=white&v=2" alt="CV en español (Google Docs)" />
   </a>
 
-  <!-- Resume en inglés (naranja) -->
+  <!-- Resume EN (naranja) -->
   <a href="https://docs.google.com/document/d/1e_NKsKQgyqh5sVnSx79eFWA7HHKwgQQ9-2BKQM1VISA/view?usp=sharing" title="Open Resume in English (Google Docs)">
-    <img src="https://img.shields.io/badge/Resume%20EN-FF8C00?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume in English (Google Docs)" />
+    <img src="https://img.shields.io/badge/Resume%20EN-FF8C00?style=for-the-badge&logo=googledocs&logoColor=white&v=2" alt="Resume in English (Google Docs)" />
   </a>
 
   <a href="https://www.linkedin.com/in/daiana-beltran" title="Ir a LinkedIn">
