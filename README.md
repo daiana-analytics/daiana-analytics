@@ -12,11 +12,6 @@
   Turning financial data into actionable strategies for revenue growth & cost optimization.<br/>
 </p>
 
-<!-- LET'S CONNECT -->
-<p align="center">
-  <a href="https://www.notion.so/Daiana-Beltr-n-249e4cf23eab8023a5bcdc9475cac25d" title="Abrir Portfolio (Notion)">
-    <img src="https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=notion&logoColor=black" alt="Portfolio (Notion)" />
-  </a>
 
 <!-- LET'S CONNECT (buttons row) -->
 <p align="center">
@@ -25,41 +20,43 @@
     <img src="https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=notion&logoColor=black&labelColor=FFD700" alt="Portfolio (Notion)" />
   </a>
 
-  <!-- CV ES (todo verde) -->
-  <a href="https://docs.google.com/document/d/130RopW1m99d8Gq91jpqG7du9axSayNakaK6JqLqgpXU/export?format=pdf" title="CV en Español (PDF)">
-    <img src="https://img.shields.io/badge/CV%20ES-PDF-00C853?style=for-the-badge&logo=googledocs&logoColor=white&labelColor=00C853" alt="CV en Español (PDF)" />
-  </a>
+  <!-- CV ES (todo verde + MAYUS) -->
+<a href="https://docs.google.com/document/d/130RopW1m99d8Gq91jpqG7du9axSayNakaK6JqLqgpXU/export?format=pdf" title="CV en Español (PDF)">
+  <img src="https://img.shields.io/badge/CV%20ES-PDF-00C853?style=for-the-badge&labelColor=00C853&logo=googledocs&logoColor=white" alt="CV en Español (PDF)" />
+</a>
 
-  <!-- Resume EN (todo naranja) -->
-  <a href="https://docs.google.com/document/d/1e_NKsKQgyqh5sVnSx79eFWA7HHKwgQQ9-2BKQM1VISA/export?format=pdf" title="Resume in English (PDF)">
-    <img src="https://img.shields.io/badge/Resume%20EN-PDF-FF8C00?style=for-the-badge&logo=googledocs&logoColor=white&labelColor=FF8C00" alt="Resume in English (PDF)" />
-  </a>
+  <!-- RESUME EN (todo naranja + MAYUS) -->
+<a href="https://docs.google.com/document/d/1e_NKsKQgyqh5sVnSx79eFWA7HHKwgQQ9-2BKQM1VISA/export?format=pdf" title="Resume in English (PDF)">
+  <img src="https://img.shields.io/badge/RESUME%20EN-PDF-FF8C00?style=for-the-badge&labelColor=FF8C00&logo=googledocs&logoColor=white" alt="Resume in English (PDF)" />
+</a>
 
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/daiana-beltran" title="LinkedIn">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" />
-  </a>
+<a href="https://www.linkedin.com/in/daiana-beltran" title="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" />
+</a>
 
   <!-- Email -->
-  <a href="mailto:daianabeltran@gmail.com" title="Email">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email" />
-  </a>
+<a href="mailto:daianabeltran@gmail.com" title="Email">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email" />
+</a>
 
-  <!-- License (MIT todo amarillo) -->
-  <a href="LICENSE" title="MIT License">
-    <img src="https://img.shields.io/badge/License-MIT-FFC107?style=for-the-badge&labelColor=FFC107" alt="License: MIT" />
-  </a>
+  <!-- LICENSE (todo amarillo + MAYUS) -->
+<a href="LICENSE" title="MIT License">
+  <img src="https://img.shields.io/badge/LICENSE-MIT-FFC107?style=for-the-badge&labelColor=FFC107" alt="License: MIT" />
+</a>
 </p>
-
 
 
 ---
 
+
 ## 💼 Skills & Tools
 
 <p align="center">
-  <!-- SQL -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="48" height="48"/>
+  <!-- Microsoft SQL Server (T-SQL) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="Microsoft SQL Server (T-SQL)" width="48" height="48"/>
+  <!-- MySQL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48"/>
   <!-- Power BI -->
   <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" width="48" height="48"/>
   <!-- Excel -->
@@ -69,12 +66,13 @@
   <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="48" height="48"/>
   <!-- Git -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git Bash" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="48" height="48"/>
   <!-- GitHub -->
   <img src="https://img.icons8.com/ios-glyphs/48/ffffff/github.png" alt="GitHub" width="48" height="48"/>
   <!-- Notion -->
   <img src="https://img.icons8.com/ios-filled/50/ffffff/notion.png" alt="Notion" width="48" height="48"/>
 </p>
+
 
 <p align="center">
   💡 <i>Transforming financial data into profitability — Explore my projects to see SQL & BI applied to real business decisions.</i>
