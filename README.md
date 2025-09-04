@@ -100,7 +100,10 @@
 
 ## 📬 Let's Connect
 If you're looking for a detail-oriented Financial Data Analyst with expertise in SQL and Power BI:  
-📧 **[daianabeltran@gmail.com](mailto:daianabeltran@gmail.com)** | [LinkedIn](https://www.linkedin.com/in/daiana-beltran) | [Portfolio](https://www.notion.so/Daiana-Beltr-n-249e4cf23eab8023a5bcdc9475cac25d) | [GitHub](https://github.com/daiana-analytics) | [Resume (EN, PDF)](https://docs.google.com/document/d/1e_NKsKQgyqh5sVnSx79eFWA7HHKwgQQ9-2BKQM1VISA/export?format=pdf) | [CV (ES, PDF)](https://docs.google.com/document/d/130RopW1m99d8Gq91jpqG7du9axSayNakaK6JqLqgpXU/export?format=pdf)
+📧 **[daianabeltran@gmail.com](mailto:daianabeltran@gmail.com)** | [LinkedIn](https://www.linkedin.com/in/daiana-beltran) | [Portfolio](https://www.notion.so/Daiana-Beltr-n-249e4cf23eab8023a5bcdc9475cac25d) | [GitHub](https://github.com/daiana-analytics)  
+**Resume (EN):** [Docs](https://docs.google.com/document/d/1e_NKsKQgyqh5sVnSx79eFWA7HHKwgQQ9-2BKQM1VISA/view?usp=sharing) · [PDF](https://docs.google.com/document/d/1e_NKsKQgyqh5sVnSx79eFWA7HHKwgQQ9-2BKQM1VISA/export?format=pdf)  
+**CV (ES):** [Docs](https://docs.google.com/document/d/130RopW1m99d8Gq91jpqG7du9axSayNakaK6JqLqgpXU/view?usp=sharing) · [PDF](https://docs.google.com/document/d/130RopW1m99d8Gq91jpqG7du9axSayNakaK6JqLqgpXU/export?format=pdf)
+
 
 ---
 
