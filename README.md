@@ -20,15 +20,15 @@
     <img src="https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=notion&logoColor=black&labelColor=FFD700" alt="Portfolio (Notion)" />
   </a>
 
-  <!-- CV ES (todo verde + MAYUS) -->
-<a href="https://docs.google.com/document/d/130RopW1m99d8Gq91jpqG7du9axSayNakaK6JqLqgpXU/export?format=pdf" title="CV en Español (PDF)">
-  <img src="https://img.shields.io/badge/CV%20ES-PDF-00C853?style=for-the-badge&labelColor=00C853&logo=googledocs&logoColor=white" alt="CV en Español (PDF)" />
-</a>
+ <!-- CV ES (todo verde, texto bold en 1 pieza) -->
+<a href="https://docs.google.com/document/d/130RopW1m99d8Gq91jpqG7du9axSayNakaK6JqLqgpXU/export?format=pdf" title="CV en Español (PDF)"><img
+  src="https://img.shields.io/badge/CV%20ES%20·%20PDF-00C853?style=for-the-badge&labelColor=00C853&logo=googledocs&logoColor=white"
+  alt="CV en Español (PDF)"/></a><!--
 
-  <!-- RESUME EN (todo naranja + MAYUS) -->
-<a href="https://docs.google.com/document/d/1e_NKsKQgyqh5sVnSx79eFWA7HHKwgQQ9-2BKQM1VISA/export?format=pdf" title="Resume in English (PDF)">
-  <img src="https://img.shields.io/badge/RESUME%20EN-PDF-FF8C00?style=for-the-badge&labelColor=FF8C00&logo=googledocs&logoColor=white" alt="Resume in English (PDF)" />
-</a>
+--><!-- RESUME EN (todo naranja, texto bold en 1 pieza) -->
+<a href="https://docs.google.com/document/d/1e_NKsKQgyqh5sVnSx79eFWA7HHKwgQQ9-2BKQM1VISA/export?format=pdf" title="Resume in English (PDF)"><img
+  src="https://img.shields.io/badge/RESUME%20EN%20·%20PDF-FF8C00?style=for-the-badge&labelColor=FF8C00&logo=googledocs&logoColor=white"
+  alt="Resume in English (PDF)"/></a><!--
 
   <!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/daiana-beltran" title="LinkedIn">
@@ -40,10 +40,10 @@
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email" />
 </a>
 
-  <!-- LICENSE (todo amarillo + MAYUS) -->
-<a href="LICENSE" title="MIT License">
-  <img src="https://img.shields.io/badge/LICENSE-MIT-FFC107?style=for-the-badge&labelColor=FFC107" alt="License: MIT" />
-</a>
+--><!-- LICENSE (todo amarillo, texto bold en 1 pieza) -->
+<a href="LICENSE" title="MIT License"><img
+  src="https://img.shields.io/badge/LICENSE%20MIT-FFC107?style=for-the-badge&labelColor=FFC107"
+  alt="License: MIT"/></a>
 </p>
 
 
