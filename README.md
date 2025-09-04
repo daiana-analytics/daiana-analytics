@@ -17,33 +17,28 @@
 <p align="center">
   <!-- Portfolio -->
   <a href="https://www.notion.so/Daiana-Beltr-n-249e4cf23eab8023a5bcdc9475cac25d" title="Open Portfolio (Notion)">
-    <img src="https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=notion&logoColor=black&labelColor=FFD700" alt="Portfolio (Notion)" />
+    <img src="https://img.shields.io/badge/PORTFOLIO-FFD700?style=for-the-badge&logo=notion&logoColor=000000&labelColor=FFD700" alt="Portfolio (Notion)" style="margin:0 6px;"/>
   </a>
-
- <!-- CV ES (todo verde, texto bold en 1 pieza) -->
-<a href="https://docs.google.com/document/d/130RopW1m99d8Gq91jpqG7du9axSayNakaK6JqLqgpXU/export?format=pdf" title="CV en Español (PDF)"><img
-  src="https://img.shields.io/badge/CV%20ES%20·%20PDF-00C853?style=for-the-badge&labelColor=00C853&logo=googledocs&logoColor=white"
-  alt="CV en Español (PDF)"/></a><!--
-
---><!-- RESUME EN (todo naranja, texto bold en 1 pieza) -->
-<a href="https://docs.google.com/document/d/1e_NKsKQgyqh5sVnSx79eFWA7HHKwgQQ9-2BKQM1VISA/export?format=pdf" title="Resume in English (PDF)"><img
-  src="https://img.shields.io/badge/RESUME%20EN%20·%20PDF-FF8C00?style=for-the-badge&labelColor=FF8C00&logo=googledocs&logoColor=white"
-  alt="Resume in English (PDF)"/></a><!--
-
+  <!-- CV ES (one-piece, bold) -->
+  <a href="https://docs.google.com/document/d/130RopW1m99d8Gq91jpqG7du9axSayNakaK6JqLqgpXU/export?format=pdf" title="CV en Español (PDF)">
+    <img src="https://img.shields.io/badge/CV%20ES%20·%20PDF-00C853?style=for-the-badge&labelColor=00C853&logo=googledocs&logoColor=white" alt="CV en Español (PDF)" style="margin:0 6px;"/>
+  </a>
+  <!-- RESUME EN (one-piece, bold) -->
+  <a href="https://docs.google.com/document/d/1e_NKsKQgyqh5sVnSx79eFWA7HHKwgQQ9-2BKQM1VISA/export?format=pdf" title="Resume in English (PDF)">
+    <img src="https://img.shields.io/badge/RESUME%20EN%20·%20PDF-FF8C00?style=for-the-badge&labelColor=FF8C00&logo=googledocs&logoColor=white" alt="Resume in English (PDF)" style="margin:0 6px;"/>
+  </a>
   <!-- LinkedIn -->
-<a href="https://www.linkedin.com/in/daiana-beltran" title="LinkedIn">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" />
-</a>
-
+  <a href="https://www.linkedin.com/in/daiana-beltran" title="LinkedIn">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" style="margin:0 6px;"/>
+  </a>
   <!-- Email -->
-<a href="mailto:daianabeltran@gmail.com" title="Email">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email" />
-</a>
-
---><!-- LICENSE (todo amarillo, texto bold en 1 pieza) -->
-<a href="LICENSE" title="MIT License"><img
-  src="https://img.shields.io/badge/LICENSE%20MIT-FFC107?style=for-the-badge&labelColor=FFC107"
-  alt="License: MIT"/></a>
+  <a href="mailto:daianabeltran@gmail.com" title="Email">
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email" style="margin:0 6px;"/>
+  </a>
+  <!-- License (one-piece, bold) -->
+  <a href="LICENSE" title="MIT License">
+    <img src="https://img.shields.io/badge/LICENSE%20MIT-FFC107?style=for-the-badge&labelColor=FFC107" alt="License: MIT" style="margin:0 6px;"/>
+  </a>
 </p>
 
 
