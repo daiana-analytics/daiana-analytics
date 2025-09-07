@@ -82,7 +82,7 @@
 | Project | Summary | Tech |
 |---|---|---|
 | <a href="https://github.com/daiana-analytics/global_superstore_finance"><img src="https://raw.githubusercontent.com/daiana-analytics/global_superstore_finance/main/dashboards/powerbi/assets/01-financial-overview.png" height="56" /></a> **[Global Superstore — Financial Analytics & BI Project](https://github.com/daiana-analytics/global_superstore_finance)** | End-to-end SQL + Power BI solution for finance: ETL → Star Schema → KPI views → Dashboards with MoM/YoY, Sales % vs LM/LY, and BI governance (read-only role & contract views). | ![SQL](https://img.shields.io/badge/SQL-blue) ![Power BI](https://img.shields.io/badge/Power%20BI-yellow) |
-| **Olist E-Commerce Analysis** <sup>🚧 _In progress_</sup> | 3-page Power BI report for the Olist dataset (Sales, Delivery & Reviews). KPIs: Total Sales, Orders, Customers; On-time Delivery %, Late Delivery %, Avg. Answer Time (hrs), Avg. Review Score. | ![Power BI](https://img.shields.io/badge/Power%20BI-yellow) ![SQL](https://img.shields.io/badge/SQL-blue) |
+| **[Olist E-Commerce — SQL Server Pipeline (RAW→CLEAN→QUALITY→BI)](https://github.com/daiana-analytics/olist-ecommerce-sql)** | End-to-end **T-SQL on SQL Server** pipeline for the Olist dataset: idempotent DDL (`CREATE OR ALTER`), **data-quality views** (`quality.*`), and BI views (`bi.*`). **Power BI-ready.** | ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=000) |
 
 
 ---
