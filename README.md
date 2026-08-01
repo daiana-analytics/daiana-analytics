@@ -1,6 +1,5 @@
-markdown
 <p align="center">
-  <img src="https://github.com/daiana-analytics/daiana-analytics/raw/main/banner-linkedin.gif" width="100%" alt="Daiana Beltrán - Banner de Bienvenida"/>
+  <img src="https://github.com/daiana-analytics/daiana-analytics/raw/main/banner-linkedin-v5.png" width="100%" alt="Daiana Beltrán - Banner de Bienvenida"/>
 </p>
 
 <!-- NOMBRE Y TITULO -->
@@ -21,7 +20,7 @@ markdown
     <img src="https://img.shields.io/badge/PORTFOLIO-FFD700?style=for-the-badge&logo=githubpages&logoColor=000000&labelColor=FFD700" alt="Portafolio" style="margin:0 6px;"/>
   </a>
   <!-- CV ES (one-piece, bold) -->
-  <a href="https://docs.google.com/document/d/130RopW1m99d8Gq91jpqG7du9axSayNakaK6JqLqgpXU/export?format=pdf" title="CV en Español (PDF)">
+  <a href="https://docs.google.com/document/d/1wfUqE9l_3VJ4bIQwtI9KD0U60i0O18WYCdr_qjGw2f4/export?format=pdf" title="CV en Español (PDF)">
     <img src="https://img.shields.io/badge/CV%20ES%20·%20PDF-00C853?style=for-the-badge&labelColor=00C853&logo=googledocs&logoColor=white" alt="CV en Español (PDF)" style="margin:0 6px;"/>
   </a>
   <!-- LinkedIn -->
@@ -81,14 +80,23 @@ markdown
 ## 🎓 Educación y Formación
 
 ### Educación
-- **Programa de Carrera en Ciencia de Datos — en curso**
+- **Programa de Carrera en Ciencia de Datos (Data Science For Business)** — 2026, en curso
   - Formación orientada a SQL, Python, Power BI, análisis de datos, visualización, fundamentos de Azure, machine learning e ingeniería de datos.
 
-- **Licenciatura en Psicología — Universidad de Flores**
+- **Smart Excel — Prof. Ing. Carolina De Andrade (SMARTpro Academy)** — 2026, en curso
+  - Entrenamiento intensivo de Excel aplicado a análisis de datos (60+ horas): fórmulas, tablas dinámicas, funciones de búsqueda, macros, formato condicional y dashboards.
+
+- **Comunicación y Oratoria Profesional — OPI 2.0 (Franco Pisso)** — 2026, finalizado (20 hs) · [Ver certificado](certificados/certificado-oratoria-opi2.pdf)
+  - Programa estructurado de 8 semanas con metodología propia de práctica deliberada, revisión y marco conceptual. Formación en comunicación persuasiva, oratoria y expresión asertiva de ideas.
+
+- **Unicorn Academy — Bootcamp en Análisis de Datos** — abr. 2024 – feb. 2025 (300 hs)
+  - SQL, Power BI, Python, ETL y fundamentos de Azure, con proyectos guiados aplicados a negocio.
+
+- **Licenciatura en Psicología — Universidad de Flores** — 2019 – 2024
   - Formación en análisis, investigación, métodos cuantitativos y cualitativos, comunicación y comprensión del comportamiento humano aplicado a la toma de decisiones.
 
-- **Formación en Contabilidad — Universidad Nacional del Comahue**
-  - Base en contabilidad financiera, costos, economía, finanzas y análisis de información económica.
+- **Formación en Contabilidad — Universidad Nacional del Comahue** — 2016 – 2018
+  - Base en contabilidad financiera, costos, economía y análisis de información económica.
 
 
 ---
@@ -98,7 +106,7 @@ markdown
 Estoy construyendo mi perfil profesional como **Analista de Datos Junior**, con foco en **SQL Server, Power BI, Excel y análisis de negocio**.
 
 📧 **[daianabeltran@gmail.com](mailto:daianabeltran@gmail.com)** | [LinkedIn](https://www.linkedin.com/in/daiana-beltran) | [Portafolio](https://daiana-analytics.github.io/) | [GitHub](https://github.com/daiana-analytics)  
-**CV en Español:** [PDF](https://docs.google.com/document/d/130RopW1m99d8Gq91jpqG7du9axSayNakaK6JqLqgpXU/export?format=pdf)
+**CV en Español:** [PDF](https://docs.google.com/document/d/1wfUqE9l_3VJ4bIQwtI9KD0U60i0O18WYCdr_qjGw2f4/export?format=pdf)
 
 
 ---
