@@ -1,27 +1,27 @@
 <p align="center">
-  <img src="https://github.com/daiana-analytics/daiana-analytics/raw/main/banner-linkedin-v5.png" width="100%" alt="Daiana Beltrán - Banner de Bienvenida"/>
+  <img src="https://github.com/daiana-analytics/daiana-analytics/raw/main/linkedin_banner_english.png" width="100%" alt="Daiana Beltrán - Welcome Banner"/>
 </p>
 
-<!-- NOMBRE Y TITULO -->
+<!-- NAME AND TITLE -->
 <h1 align="center">Daiana Beltrán</h1>
 <h3 align="center">
-  <strong>Analista de Datos Junior</strong> · SQL Server · Power BI · Business Analytics
+  <strong>Data Analyst</strong> · SQL Server · Power BI · Business Analytics
 </h3>
 <p align="center">
-  Transformo datos de negocio en información clara para la toma de decisiones.<br/>
-  Desarrollo dashboards, KPIs y análisis orientados a ventas, rentabilidad y eficiencia operativa.<br/>
+  I work as a translator between data and business, turning numbers into clear, actionable decisions.<br/>
+  I build dashboards, KPIs, and analyses focused on sales, profitability, and operational efficiency.<br/>
 </p>
 
 
 <!-- LET'S CONNECT (buttons row) -->
 <p align="center">
   <!-- Portfolio -->
-  <a href="https://daiana-analytics.github.io/" title="Abrir Portafolio">
-    <img src="https://img.shields.io/badge/PORTFOLIO-FFD700?style=for-the-badge&logo=githubpages&logoColor=000000&labelColor=FFD700" alt="Portafolio" style="margin:0 6px;"/>
+  <a href="https://daiana-analytics.github.io/" title="Open Portfolio">
+    <img src="https://img.shields.io/badge/PORTFOLIO-FFD700?style=for-the-badge&logo=githubpages&logoColor=000000&labelColor=FFD700" alt="Portfolio" style="margin:0 6px;"/>
   </a>
   <!-- CV ES (one-piece, bold) -->
-  <a href="https://docs.google.com/document/d/1wfUqE9l_3VJ4bIQwtI9KD0U60i0O18WYCdr_qjGw2f4/export?format=pdf" title="CV en Español (PDF)">
-    <img src="https://img.shields.io/badge/CV%20ES%20·%20PDF-00C853?style=for-the-badge&labelColor=00C853&logo=googledocs&logoColor=white" alt="CV en Español (PDF)" style="margin:0 6px;"/>
+  <a href="https://docs.google.com/document/d/1wfUqE9l_3VJ4bIQwtI9KD0U60i0O18WYCdr_qjGw2f4/export?format=pdf" title="Resume in Spanish (PDF)">
+    <img src="https://img.shields.io/badge/RESUME%20ES%20·%20PDF-00C853?style=for-the-badge&labelColor=00C853&logo=googledocs&logoColor=white" alt="Resume in Spanish (PDF)" style="margin:0 6px;"/>
   </a>
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/daiana-beltran" title="LinkedIn">
@@ -60,53 +60,53 @@
 
 
 <p align="center">
-  💡 <i>Datos claros. Indicadores accionables. Decisiones mejor informadas.</i>
+  💡 <i>Clear data. Actionable indicators. Better-informed decisions.</i>
 </p>
 
 
 ---
 
 
-## 📌 Proyectos Destacados
+## 📌 Featured Projects
 
-| Proyecto | Resumen | Tecnologías |
+| Project | Summary | Technologies |
 |---|---|---|
-| <a href="https://github.com/daiana-analytics/global_superstore_finance"><img src="https://raw.githubusercontent.com/daiana-analytics/global_superstore_finance/main/dashboards/powerbi/assets/01-financial-overview.png" height="56" /></a> **[Global Superstore — Análisis Financiero con SQL y Power BI](https://github.com/daiana-analytics/global_superstore_finance)** | Proyecto de análisis financiero aplicado a ventas, rentabilidad, margen y descuentos. Incluye limpieza y modelado de datos, consultas SQL, modelo orientado a BI y dashboard en Power BI con indicadores clave para la toma de decisiones. | ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=000) |
-| <a href="https://github.com/daiana-analytics/olist-ecommerce-sql"><img src="https://raw.githubusercontent.com/daiana-analytics/olist-ecommerce-sql/main/docs/screenshots/Pag%201%20Summary.png" height="56" alt="Olist Summary thumbnail"/></a> **[Olist E-Commerce — Análisis de Ventas, Entregas y Clientes](https://github.com/daiana-analytics/olist-ecommerce-sql)** | Proyecto de análisis de e-commerce orientado a ventas, operaciones, métodos de pago, clientes y tiempos de entrega. Incluye proceso ETL, vistas SQL y dashboard en Power BI con indicadores comerciales y operativos. | ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=000) |
+| <a href="https://github.com/daiana-analytics/global_superstore_finance"><img src="https://raw.githubusercontent.com/daiana-analytics/global_superstore_finance/main/dashboards/powerbi/assets/01-financial-overview.png" height="56" /></a> **[Global Superstore — Financial Analysis with SQL and Power BI](https://github.com/daiana-analytics/global_superstore_finance)** | Financial analysis project applied to sales, profitability, margin, and discounts. Includes data cleaning and modeling, SQL queries, a BI-oriented model, and a Power BI dashboard with key indicators for decision-making. | ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=000) |
+| <a href="https://github.com/daiana-analytics/olist-ecommerce-sql"><img src="https://raw.githubusercontent.com/daiana-analytics/olist-ecommerce-sql/main/docs/screenshots/Pag%201%20Summary.png" height="56" alt="Olist Summary thumbnail"/></a> **[Olist E-Commerce — Sales, Delivery, and Customer Analysis](https://github.com/daiana-analytics/olist-ecommerce-sql)** | E-commerce analysis project focused on sales, operations, payment methods, customers, and delivery times. Includes an ETL process, SQL views, and a Power BI dashboard with commercial and operational indicators. | ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=000) |
 
 
 ---
 
-## 🎓 Educación y Formación
+## 🎓 Education & Training
 
-### Educación
-- **Programa de Carrera en Ciencia de Datos (Data Science For Business)** — 2026, en curso
-  - Formación orientada a SQL, Python, Power BI, análisis de datos, visualización, fundamentos de Azure, machine learning e ingeniería de datos.
+### Education
+- **Data Science For Business — Career Program** — 2026, in progress
+  - Training in SQL, Python, Power BI, data analysis, visualization, Azure fundamentals, machine learning, and data engineering.
 
-- **Smart Excel — Prof. Ing. Carolina De Andrade (SMARTpro Academy)** — 2026, en curso
-  - Entrenamiento intensivo de Excel aplicado a análisis de datos (60+ horas): fórmulas, tablas dinámicas, funciones de búsqueda, macros, formato condicional y dashboards.
+- **Smart Excel — Prof. Eng. Carolina De Andrade (SMARTpro Academy)** — 2026, in progress
+  - Intensive Excel training applied to data analysis (60+ hours): formulas, pivot tables, lookup functions, macros, conditional formatting, and dashboards.
 
-- **Comunicación y Oratoria Profesional — OPI 2.0 (Franco Pisso)** — 2026, finalizado (20 hs) · [Ver certificado](certificados/certificado-oratoria-opi2.pdf)
-  - Programa estructurado de 8 semanas con metodología propia de práctica deliberada, revisión y marco conceptual. Formación en comunicación persuasiva, oratoria y expresión asertiva de ideas.
+- **Professional Communication & Public Speaking — OPI 2.0 (Franco Pisso)** — 2026, completed (20 hrs) · [View certificate](certificados/certificado-oratoria-opi2.pdf)
+  - Structured 8-week program with a deliberate-practice methodology, feedback, and a conceptual framework. Training in persuasive communication, public speaking, and assertive expression of ideas.
 
-- **Unicorn Academy — Bootcamp en Análisis de Datos** — abr. 2024 – feb. 2025 (300 hs)
-  - SQL, Power BI, Python, ETL y fundamentos de Azure, con proyectos guiados aplicados a negocio.
+- **Unicorn Academy — Data Analytics Bootcamp** — Apr 2024 – Feb 2025 (300 hrs)
+  - SQL, Power BI, Python, ETL, and Azure fundamentals, with guided business-applied projects.
 
-- **Licenciatura en Psicología — Universidad de Flores** — 2019 – 2024
-  - Formación en análisis, investigación, métodos cuantitativos y cualitativos, comunicación y comprensión del comportamiento humano aplicado a la toma de decisiones.
+- **B.A. in Psychology — Universidad de Flores** — 2019 – 2024
+  - Training in analysis, research, quantitative and qualitative methods, communication, and understanding human behavior applied to decision-making.
 
-- **Formación en Contabilidad — Universidad Nacional del Comahue** — 2016 – 2018
-  - Base en contabilidad financiera, costos, economía y análisis de información económica.
+- **Accounting Studies — Universidad Nacional del Comahue** — 2016 – 2018
+  - Foundation in financial accounting, costs, economics, and analysis of economic information.
 
 
 ---
 
-## 📬 Contacto
+## 📬 Contact
 
-Estoy construyendo mi perfil profesional como **Analista de Datos Junior**, con foco en **SQL Server, Power BI, Excel y análisis de negocio**.
+I'm building my professional profile as a **Data Analyst**, focused on **SQL Server, Power BI, Excel, and business analysis**.
 
-📧 **[daianabeltran@gmail.com](mailto:daianabeltran@gmail.com)** | [LinkedIn](https://www.linkedin.com/in/daiana-beltran) | [Portafolio](https://daiana-analytics.github.io/) | [GitHub](https://github.com/daiana-analytics)  
-**CV en Español:** [PDF](https://docs.google.com/document/d/1wfUqE9l_3VJ4bIQwtI9KD0U60i0O18WYCdr_qjGw2f4/export?format=pdf)
+📧 **[daianabeltran@gmail.com](mailto:daianabeltran@gmail.com)** | [LinkedIn](https://www.linkedin.com/in/daiana-beltran) | [Portfolio](https://daiana-analytics.github.io/) | [GitHub](https://github.com/daiana-analytics)  
+**Resume in Spanish:** [PDF](https://docs.google.com/document/d/1wfUqE9l_3VJ4bIQwtI9KD0U60i0O18WYCdr_qjGw2f4/export?format=pdf)
 
 
 ---
