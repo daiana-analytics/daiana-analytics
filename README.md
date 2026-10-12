@@ -5,35 +5,30 @@
 <!-- NAME AND TITLE -->
 <h1 align="center">Daiana Beltrán</h1>
 <h3 align="center">
-  <strong>Data Analyst</strong> · SQL Server · Power BI · Business Analytics
+  <strong>Data & Business Intelligence Analyst</strong> · SQL · Power BI · Python
 </h3>
 <p align="center">
-  I work as a translator between data and business, turning numbers into clear, actionable decisions.<br/>
-  I build dashboards, KPIs, and analyses focused on sales, profitability, and operational efficiency.<br/>
+  Before opening a file, I ask what decision needs to be made.<br/>
+  Then I check the data can be trusted, model it with SQL, Python and Power BI, and close with a recommendation people can use.
 </p>
 
 
 <!-- LET'S CONNECT (buttons row) -->
 <p align="center">
-  <!-- Portfolio -->
   <a href="https://daiana-analytics.github.io/" title="Open Portfolio">
     <img src="https://img.shields.io/badge/PORTFOLIO-FFD700?style=for-the-badge&logo=githubpages&logoColor=000000&labelColor=FFD700" alt="Portfolio" style="margin:0 6px;"/>
   </a>
-  <!-- CV ES (one-piece, bold) -->
-  <a href="https://docs.google.com/document/d/1wfUqE9l_3VJ4bIQwtI9KD0U60i0O18WYCdr_qjGw2f4/export?format=pdf" title="Resume in Spanish (PDF)">
-    <img src="https://img.shields.io/badge/RESUME%20ES%20·%20PDF-00C853?style=for-the-badge&labelColor=00C853&logo=googledocs&logoColor=white" alt="Resume in Spanish (PDF)" style="margin:0 6px;"/>
+  <a href="https://daiana-analytics.github.io/assets/cv/Daiana-Beltran-CV-EN.pdf" title="Resume in English (PDF)">
+    <img src="https://img.shields.io/badge/RESUME%20EN%20·%20PDF-00C853?style=for-the-badge&labelColor=00C853&logo=adobeacrobatreader&logoColor=white" alt="Resume in English (PDF)" style="margin:0 6px;"/>
   </a>
-  <!-- LinkedIn -->
+  <a href="https://daiana-analytics.github.io/assets/cv/Daiana-Beltran-CV-ES.pdf" title="Resume in Spanish (PDF)">
+    <img src="https://img.shields.io/badge/CV%20ES%20·%20PDF-00897B?style=for-the-badge&labelColor=00897B&logo=adobeacrobatreader&logoColor=white" alt="CV en español (PDF)" style="margin:0 6px;"/>
+  </a>
   <a href="https://www.linkedin.com/in/daiana-beltran" title="LinkedIn">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" style="margin:0 6px;"/>
   </a>
-  <!-- Email -->
   <a href="mailto:daianabeltran@gmail.com" title="Email">
     <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email" style="margin:0 6px;"/>
-  </a>
-  <!-- License (one-piece, bold) -->
-  <a href="LICENSE" title="MIT License">
-    <img src="https://img.shields.io/badge/LICENSE%20MIT-FFC107?style=for-the-badge&labelColor=FFC107" alt="License: MIT" style="margin:0 6px;"/>
   </a>
 </p>
 
@@ -44,70 +39,87 @@
 ## 💼 Skills & Tools
 
 <p align="center">
-  <!-- Microsoft SQL Server (T-SQL) -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="Microsoft SQL Server (T-SQL)" width="48" height="48"/>
-  <!-- Power BI -->
   <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" width="48" height="48"/>
-  <!-- Excel -->
   <img src="https://img.icons8.com/fluency/48/microsoft-excel-2019.png" alt="Excel" width="48" height="48"/>
-  <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="48" height="48"/>
-  <!-- Git -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="48" height="48"/>
-  <!-- GitHub -->
   <img src="https://img.icons8.com/ios-glyphs/48/ffffff/github.png" alt="GitHub" width="48" height="48"/>
 </p>
 
-
-<p align="center">
-  💡 <i>Clear data. Actionable indicators. Better-informed decisions.</i>
-</p>
+| Area | Tools |
+|---|---|
+| Data | SQL (SQL Server, MySQL): queries, joins, aggregations, views · Power Query |
+| Analysis | Python (pandas, SciPy), in training · Excel: pivot tables, lookups, macros |
+| Visualization | Power BI, DAX, star schema · interactive web dashboards |
+| Methods | Data quality auditing · KPI definition · Scrum and Kanban |
 
 
 ---
 
 
-## 📌 Featured Projects
+## 📌 Featured Project
 
-| Project | Summary | Technologies |
-|---|---|---|
-| <a href="https://github.com/daiana-analytics/global_superstore_finance"><img src="https://raw.githubusercontent.com/daiana-analytics/global_superstore_finance/main/dashboards/powerbi/assets/01-financial-overview.png" height="56" /></a> **[Global Superstore — Financial Analysis with SQL and Power BI](https://github.com/daiana-analytics/global_superstore_finance)** | Financial analysis project applied to sales, profitability, margin, and discounts. Includes data cleaning and modeling, SQL queries, a BI-oriented model, and a Power BI dashboard with key indicators for decision-making. | ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=000) |
-| <a href="https://github.com/daiana-analytics/olist-ecommerce-sql"><img src="https://raw.githubusercontent.com/daiana-analytics/olist-ecommerce-sql/main/docs/screenshots/Pag%201%20Summary.png" height="56" alt="Olist Summary thumbnail"/></a> **[Olist E-Commerce — Sales, Delivery, and Customer Analysis](https://github.com/daiana-analytics/olist-ecommerce-sql)** | E-commerce analysis project focused on sales, operations, payment methods, customers, and delivery times. Includes an ETL process, SQL views, and a Power BI dashboard with commercial and operational indicators. | ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=000) |
-| <a href="https://github.com/daiana-analytics/vaca-muerta-declino"><img src="https://raw.githubusercontent.com/daiana-analytics/vaca-muerta-declino/main/data/curva_declino_pozo155785.png" height="56" alt="Vaca Muerta decline curve thumbnail"/></a> **[Vaca Muerta — Decline Curve Analysis for an Unconventional Well](https://github.com/daiana-analytics/vaca-muerta-declino)** | Decline-curve analysis of a Vaca Muerta shale well — built to understand the production economics that drive demand for industrial and maintenance services across the region's O&G supply chain. Statistical model fitting (Arps), rigorous evaluation of model limits, and quantified business impact on reserve estimates. | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white) |
+### [Vaca Muerta — How fast does a shale well decline?](https://github.com/daiana-analytics/vaca-muerta-declino)
+
+<a href="https://daiana-analytics.github.io/#dashboard">
+  <img src="https://daiana-analytics.github.io/assets/projects/vaca-muerta.png" width="100%" alt="Interactive dashboard: Vaca Muerta well decline and operations"/>
+</a>
+
+**Business question:** once a Vaca Muerta well reaches peak production, how fast does it decline, and how productive is it one year later?
+
+| | |
+|---|---|
+| **1,974** modern wells analyzed | started from 2016 on, with public data from Argentina's Energy Secretariat |
+| **69.8%** average decline | in the 12 months after peak |
+| **16%** overestimate | of 15-year production when the Arps model is left unconstrained |
+
+- **Data audit:** separated shut-in wells from depleted ones using effective production time (12.1% shut in at the end), so decline is not overstated.
+- **Model:** fitted the industry-standard Arps decline model, bounded its *b* parameter and validated it with backtesting.
+- **Business takeaway:** if a well loses about 70% in its first year, sustaining production requires constant drilling, which explains the steady demand for services in the basin.
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=000)
+
+👉 **[Explore the interactive dashboard](https://daiana-analytics.github.io/#dashboard)** · **[Code and methodology](https://github.com/daiana-analytics/vaca-muerta-declino)**
+
+### 🛠️ What I'm building now
+
+- **In progress — SQL layer for Vaca Muerta:** moving the cleaning and filtering of the raw dataset (about 140 MB) to SQL, so the project shows the full pipeline: SQL to extract and clean, Python to analyze.
+- **Next — Margin by contract:** a management-control case for an industrial services company: which contracts make money and which lose it, with SQL and Power BI.
 
 
 ---
 
 ## 🎓 Education & Training
 
-### Education
-- **Data Science For Business — Career Program** — 2026, in progress
-  - Training in SQL, Python, Power BI, data analysis, visualization, Azure fundamentals, machine learning, and data engineering.
+- **Data Science for Business — Career Program** — 2026, in progress
+  - Python, applied statistics and Machine Learning for business problems.
 
-- **Smart Excel — Prof. Eng. Carolina De Andrade (SMARTpro Academy)** — 2026, in progress
-  - Intensive Excel training applied to data analysis (60+ hours): formulas, pivot tables, lookup functions, macros, conditional formatting, and dashboards.
+- **Smart Excel — SMARTpro Academy** — 2026, completed (60+ hrs)
+  - Formulas, pivot tables, lookup functions, macros, conditional formatting and dashboards.
 
-- **Professional Communication & Public Speaking — OPI 2.0 (Franco Pisso)** — 2026, completed (20 hrs) · [View certificate](certificados/certificado-oratoria-opi2.pdf)
-  - Structured 8-week program with a deliberate-practice methodology, feedback, and a conceptual framework. Training in persuasive communication, public speaking, and assertive expression of ideas.
+- **Professional Communication & Public Speaking — OPI 2.0** — 2026, completed (20 hrs)
+  - Structuring a message and presenting ideas clearly.
 
 - **Unicorn Academy — Data Analytics Bootcamp** — Apr 2024 – Feb 2025 (300 hrs)
-  - SQL, Power BI, Python, ETL, and Azure fundamentals, with guided business-applied projects.
+  - SQL, Power BI, Python, ETL and Azure fundamentals, with business-applied projects.
+
+- **Agile methodologies certifications (Scrum) — Educación IT**
 
 - **B.A. in Psychology — Universidad de Flores** — 2019 – 2024
-  - Training in analysis, research, quantitative and qualitative methods, communication, and understanding human behavior applied to decision-making.
+  - Research methods, applied statistics, interviewing and clear communication of findings.
 
-- **Accounting Studies — Universidad Nacional del Comahue** — 2016 – 2018
-  - Foundation in financial accounting, costs, economics, and analysis of economic information.
+- **Public Accounting — Universidad Nacional del Comahue** — 2016 – 2018 (two years completed)
 
 
 ---
 
 ## 📬 Contact
 
-I'm building my professional profile as a **Data Analyst**, focused on **SQL Server, Power BI, Excel, and business analysis**.
+Looking for **Data Analyst, BI Analyst or management control analyst** roles, remote or hybrid. Based in Neuquén, Argentina.
 
-📧 **[daianabeltran@gmail.com](mailto:daianabeltran@gmail.com)** | [LinkedIn](https://www.linkedin.com/in/daiana-beltran) | [Portfolio](https://daiana-analytics.github.io/) | [GitHub](https://github.com/daiana-analytics)  
-**Resume in Spanish:** [PDF](https://docs.google.com/document/d/1wfUqE9l_3VJ4bIQwtI9KD0U60i0O18WYCdr_qjGw2f4/export?format=pdf)
+📧 **[daianabeltran@gmail.com](mailto:daianabeltran@gmail.com)** | [LinkedIn](https://www.linkedin.com/in/daiana-beltran) | [Portfolio](https://daiana-analytics.github.io/)  
+**Resume:** [English (PDF)](https://daiana-analytics.github.io/assets/cv/Daiana-Beltran-CV-EN.pdf) · [Español (PDF)](https://daiana-analytics.github.io/assets/cv/Daiana-Beltran-CV-ES.pdf)
 
 
 ---
