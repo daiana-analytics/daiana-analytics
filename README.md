@@ -1,17 +1,13 @@
 <p align="center">
-  <img src="https://github.com/daiana-analytics/daiana-analytics/raw/main/linkedin_banner_english.png" width="100%" alt="Daiana Beltrán - Welcome Banner"/>
+  <img src="banner-github.png" width="100%" alt="Daiana Beltrán · Data & Business Intelligence Analyst"/>
 </p>
 
-<!-- NAME AND TITLE -->
-<h1 align="center">Daiana Beltrán</h1>
-<h3 align="center">
-  <strong>Data & Business Intelligence Analyst</strong> · SQL · Power BI · Python
-</h3>
 <p align="center">
+  <b>Data & Business Intelligence Analyst</b> based in Neuquén, Argentina · open to remote or hybrid roles<br/><br/>
   Before opening a file, I ask what decision needs to be made.<br/>
-  Then I check the data can be trusted, model it with SQL, Python and Power BI, and close with a recommendation people can use.
+  Then I check the data can be trusted, model it with SQL, Python and Power BI,<br/>
+  and close with a recommendation people can use.
 </p>
-
 
 <!-- LET'S CONNECT (buttons row) -->
 <p align="center">
@@ -58,29 +54,14 @@
 ---
 
 
-## 📌 Featured Project
+## 📌 Projects
 
-### [Vaca Muerta — How fast does a shale well decline?](https://github.com/daiana-analytics/vaca-muerta-declino)
-
-<a href="https://daiana-analytics.github.io/#dashboard">
-  <img src="https://daiana-analytics.github.io/assets/projects/vaca-muerta.png" width="100%" alt="Interactive dashboard: Vaca Muerta well decline and operations"/>
-</a>
-
-**Business question:** once a Vaca Muerta well reaches peak production, how fast does it decline, and how productive is it one year later?
-
-| | |
-|---|---|
-| **1,974** modern wells analyzed | started from 2016 on, with public data from Argentina's Energy Secretariat |
-| **69.8%** average decline | in the 12 months after peak |
-| **16%** overestimate | of 15-year production when the Arps model is left unconstrained |
-
-- **Data audit:** separated shut-in wells from depleted ones using effective production time (12.1% shut in at the end), so decline is not overstated.
-- **Model:** fitted the industry-standard Arps decline model, bounded its *b* parameter and validated it with backtesting.
-- **Business takeaway:** if a well loses about 70% in its first year, sustaining production requires constant drilling, which explains the steady demand for services in the basin.
-
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=000)
-
-👉 **[Explore the interactive dashboard](https://daiana-analytics.github.io/#dashboard)** · **[Code and methodology](https://github.com/daiana-analytics/vaca-muerta-declino)**
+| Project | Summary | Technologies |
+|---|---|---|
+| <a href="https://github.com/daiana-analytics/vaca-muerta-declino"><img src="https://daiana-analytics.github.io/assets/projects/vaca-muerta.png" width="140" alt="Vaca Muerta dashboard thumbnail"/></a><br/>⭐ **Featured**<br/>**[Vaca Muerta — Well Decline Analysis](https://github.com/daiana-analytics/vaca-muerta-declino)** | How fast does a shale well decline after peak? Analysis of 1,974 wells with public data: **69.8%** drop in the first year. Data audit of shut-in vs. depleted wells, Arps forecast validated with backtesting, and an [interactive dashboard](https://daiana-analytics.github.io/#dashboard). | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=000) |
+<!-- NEXT PROJECT: copy the row below, paste it above this comment (outside this comment) and fill in the links.
+| <a href="LINK-TO-REPO"><img src="LINK-TO-THUMBNAIL.png" width="140" alt="thumbnail"/></a><br/>**[Vaca Muerta — SQL Layer](LINK-TO-REPO)** | One or two lines: the business question and the main result. | ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white) |
+-->
 
 ### 🛠️ What I'm building now
 
