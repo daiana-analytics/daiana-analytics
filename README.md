@@ -45,7 +45,7 @@
 
 | Area | Tools |
 |---|---|
-| Data | SQL (SQL Server, MySQL): queries, joins, aggregations, views · Power Query |
+| Data | SQL (SQL Server, MySQL, DuckDB): queries, joins, aggregations, views, CTEs, window functions · Power Query |
 | Analysis | Python (pandas, SciPy), in training · Excel: pivot tables, lookups, macros |
 | Visualization | Power BI, DAX, star schema · interactive web dashboards |
 | Methods | Data quality auditing · KPI definition · Scrum and Kanban |
@@ -58,14 +58,13 @@
 
 | Project | Summary | Technologies |
 |---|---|---|
-| <a href="https://github.com/daiana-analytics/vaca-muerta-declino"><img src="https://daiana-analytics.github.io/assets/projects/vaca-muerta.png" width="140" alt="Vaca Muerta dashboard thumbnail"/></a><br/>⭐ **Featured**<br/>**[Vaca Muerta — Well Decline Analysis](https://github.com/daiana-analytics/vaca-muerta-declino)** | How fast does a shale well decline after peak? Analysis of 1,974 wells with public data: **69.8%** drop in the first year. Data audit of shut-in vs. depleted wells, Arps forecast validated with backtesting, and an [interactive dashboard](https://daiana-analytics.github.io/#dashboard). | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=000) |
+| <a href="https://github.com/daiana-analytics/vaca-muerta-declino"><img src="https://daiana-analytics.github.io/assets/projects/vaca-muerta.png" width="140" alt="Vaca Muerta dashboard thumbnail"/></a><br/>⭐ **Featured**<br/>**[Vaca Muerta — Well Decline Analysis](https://github.com/daiana-analytics/vaca-muerta-declino)** | How fast does a shale well decline after peak? Analysis of 1,974 wells with public data: **69.8%** drop in the first year. Cleaning and data-quality audit in SQL (DuckDB), validated against Python, shut-in vs. depleted wells, Arps forecast validated with backtesting, and an [interactive dashboard](https://daiana-analytics.github.io/#dashboard). | ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white) ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?logo=duckdb&logoColor=000) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=000) |
 <!-- NEXT PROJECT: copy the row below, paste it above this comment (outside this comment) and fill in the links.
 | <a href="LINK-TO-REPO"><img src="LINK-TO-THUMBNAIL.png" width="140" alt="thumbnail"/></a><br/>**[Vaca Muerta — SQL Layer](LINK-TO-REPO)** | One or two lines: the business question and the main result. | ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white) |
 -->
 
 ### 🛠️ What I'm building now
 
-- **In progress — SQL layer for Vaca Muerta:** moving the cleaning and filtering of the raw dataset (about 140 MB) to SQL, so the project shows the full pipeline: SQL to extract and clean, Python to analyze.
 - **Next — Margin by contract:** a management-control case for an industrial services company: which contracts make money and which lose it, with SQL and Power BI.
 
 
